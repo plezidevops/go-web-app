@@ -2,7 +2,6 @@ package main
 
 import (
 	"fmt"
-	"github.com/plezidevops/go-course/pkg/handlers"
 	"net/http"
 
 	"github.com/plezidevops/go-course/pkg/handlers"

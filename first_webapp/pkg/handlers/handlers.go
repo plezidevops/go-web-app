@@ -1,7 +1,6 @@
 package handlers
 
 import (
-	"github.com/plezidevops/go-course/pkg/render"
 	"net/http"
 
 	"github.com/plezidevops/go-course/pkg/render"
